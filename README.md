@@ -25,7 +25,7 @@ This project was developed as a learning exercise to:
 
 ## 🧰 Technologies & Concepts Used
 
-- Language: **C# (.NET 6 or .NET Core)**
+- Language: **C# (.NET  or .NET Core)**
 - Paradigms: **Object-Oriented Programming (OOP)**
 - Concepts:
   - Classes and Objects
